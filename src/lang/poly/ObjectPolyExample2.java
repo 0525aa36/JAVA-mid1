@@ -8,6 +8,10 @@ public class ObjectPolyExample2 {
         Object object = new Object();
 
         Object[] objects = {dog, car, object};
+//        Object[] objects = new Object[3];
+//        objects[0] = dog;
+//        objects[1] = car;
+//        objects[2] = object;
 
         size(objects);
        
